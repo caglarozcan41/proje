@@ -62,7 +62,7 @@ namespace dosyasifrelemeuygulamasi
             // 
             this.sifresizmetin.Location = new System.Drawing.Point(89, 64);
             this.sifresizmetin.Name = "sifresizmetin";
-            this.sifresizmetin.Size = new System.Drawing.Size(163, 20);
+            this.sifresizmetin.Size = new System.Drawing.Size(282, 20);
             this.sifresizmetin.TabIndex = 5;
             // 
             // label3
@@ -76,7 +76,8 @@ namespace dosyasifrelemeuygulamasi
             // 
             // sifrele
             // 
-            this.sifrele.Location = new System.Drawing.Point(89, 90);
+            this.sifrele.ForeColor = System.Drawing.Color.Red;
+            this.sifrele.Location = new System.Drawing.Point(215, 90);
             this.sifrele.Name = "sifrele";
             this.sifrele.Size = new System.Drawing.Size(75, 23);
             this.sifrele.TabIndex = 6;
@@ -86,7 +87,8 @@ namespace dosyasifrelemeuygulamasi
             // 
             // sifrekaldir
             // 
-            this.sifrekaldir.Location = new System.Drawing.Point(177, 90);
+            this.sifrekaldir.ForeColor = System.Drawing.Color.Green;
+            this.sifrekaldir.Location = new System.Drawing.Point(296, 90);
             this.sifrekaldir.Name = "sifrekaldir";
             this.sifrekaldir.Size = new System.Drawing.Size(75, 23);
             this.sifrekaldir.TabIndex = 7;
@@ -98,19 +100,19 @@ namespace dosyasifrelemeuygulamasi
             // 
             this.textBox1.Location = new System.Drawing.Point(89, 12);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(163, 20);
+            this.textBox1.Size = new System.Drawing.Size(282, 20);
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(89, 38);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(163, 20);
+            this.textBox2.Size = new System.Drawing.Size(282, 20);
             this.textBox2.TabIndex = 3;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(12, 119);
+            this.button1.Location = new System.Drawing.Point(12, 90);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(106, 23);
             this.button1.TabIndex = 8;
@@ -122,7 +124,7 @@ namespace dosyasifrelemeuygulamasi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(267, 155);
+            this.ClientSize = new System.Drawing.Size(383, 124);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.sifrekaldir);
             this.Controls.Add(this.sifrele);

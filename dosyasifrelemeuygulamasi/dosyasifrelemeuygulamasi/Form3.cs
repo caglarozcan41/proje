@@ -25,8 +25,8 @@ namespace dosyasifrelemeuygulamasi
 
         private void button1_Click(object sender, EventArgs e)
         {
-            Form4 frm4 = new Form4();
-            frm4.Show();
+            Form5 frm5 = new Form5();
+            frm5.Show();
             this.Hide();
         }
 

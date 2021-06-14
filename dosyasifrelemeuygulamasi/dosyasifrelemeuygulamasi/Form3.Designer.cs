@@ -58,14 +58,14 @@ namespace dosyasifrelemeuygulamasi
             // 
             this.textBox1.Location = new System.Drawing.Point(113, 46);
             this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(132, 20);
+            this.textBox1.Size = new System.Drawing.Size(338, 20);
             this.textBox1.TabIndex = 1;
             // 
             // textBox2
             // 
             this.textBox2.Location = new System.Drawing.Point(113, 75);
             this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(132, 20);
+            this.textBox2.Size = new System.Drawing.Size(338, 20);
             this.textBox2.TabIndex = 2;
             // 
             // label1
@@ -88,7 +88,7 @@ namespace dosyasifrelemeuygulamasi
             // 
             // anaEkran
             // 
-            this.anaEkran.Location = new System.Drawing.Point(12, 102);
+            this.anaEkran.Location = new System.Drawing.Point(12, 114);
             this.anaEkran.Name = "anaEkran";
             this.anaEkran.Size = new System.Drawing.Size(95, 23);
             this.anaEkran.TabIndex = 5;
@@ -98,9 +98,10 @@ namespace dosyasifrelemeuygulamasi
             // 
             // sifrele
             // 
-            this.sifrele.Location = new System.Drawing.Point(251, 73);
+            this.sifrele.ForeColor = System.Drawing.Color.Red;
+            this.sifrele.Location = new System.Drawing.Point(343, 101);
             this.sifrele.Name = "sifrele";
-            this.sifrele.Size = new System.Drawing.Size(75, 23);
+            this.sifrele.Size = new System.Drawing.Size(108, 36);
             this.sifrele.TabIndex = 6;
             this.sifrele.Text = "Şifrele!";
             this.sifrele.UseVisualStyleBackColor = true;
@@ -108,9 +109,10 @@ namespace dosyasifrelemeuygulamasi
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(219, 102);
+            this.button1.ForeColor = System.Drawing.Color.Blue;
+            this.button1.Location = new System.Drawing.Point(229, 114);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(107, 23);
+            this.button1.Size = new System.Drawing.Size(108, 23);
             this.button1.TabIndex = 7;
             this.button1.Text = "Şifreyi Kopyala";
             this.button1.UseVisualStyleBackColor = true;
@@ -120,7 +122,7 @@ namespace dosyasifrelemeuygulamasi
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(338, 137);
+            this.ClientSize = new System.Drawing.Size(478, 156);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.sifrele);
             this.Controls.Add(this.anaEkran);

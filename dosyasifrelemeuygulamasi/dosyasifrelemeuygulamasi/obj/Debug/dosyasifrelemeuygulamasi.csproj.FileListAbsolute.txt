@@ -11,3 +11,4 @@ C:\Users\calar\source\repos\dosyasifrelemeuygulamasi\dosyasifrelemeuygulamasi\ob
 C:\Users\calar\source\repos\dosyasifrelemeuygulamasi\dosyasifrelemeuygulamasi\obj\Debug\dosyasifrelemeuygulamasi.Form2.resources
 C:\Users\calar\source\repos\dosyasifrelemeuygulamasi\dosyasifrelemeuygulamasi\obj\Debug\dosyasifrelemeuygulamasi.Form3.resources
 C:\Users\calar\source\repos\dosyasifrelemeuygulamasi\dosyasifrelemeuygulamasi\obj\Debug\dosyasifrelemeuygulamasi.Form4.resources
+C:\Users\calar\source\repos\dosyasifrelemeuygulamasi\dosyasifrelemeuygulamasi\obj\Debug\dosyasifrelemeuygulamasi.Form5.resources
